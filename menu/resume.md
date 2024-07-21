@@ -7,7 +7,3 @@
 
 ### Careers.
 ###### 경력 사항
-
-
-![회사 이미지](../img/resume/futura.jpg)
-<img src="../img/resume/futura.jpg" width="100px" height="100px">

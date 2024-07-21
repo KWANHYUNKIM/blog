@@ -10,5 +10,9 @@
     {
         "name": "contact.md",
         "download_url": "/menu/contact.md"
+    },
+    {
+        "name": "resume.md",
+        "download_url": "/menu/resume.md"
     }
 ]

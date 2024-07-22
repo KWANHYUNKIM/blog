@@ -9,29 +9,28 @@
 <body class="bg-gray-100">
 
   <!-- Hero Section -->
-  <section class="bg-gray-900 text-white py-20">
-    <div class="container mx-auto px-4">
-      <div class="text-center">
-        <h1 class="text-4xl font-bold">안녕하세요, 저는 김관현입니다.</h1>
-        <p class="mt-4">1년차 백엔드 개발자로, 온라인에서는 '옆집아저씨'라는 닉네임으로 활동하고 있습니다.
-                        대학교 내 과제만 하다가 이제 막 사회에 나와서 백엔드 개발 커리어를 시작하고 있으며, 
-                        현재는 SI 회사에서 유지보수 업무를 받아서 프로젝트를 진행하고 있습니다. 회사업무 이외에도
-                        다양한 경험을 하고싶어 새롭게 '개발 블로그' 개설했습니다. 
-
-                        개발자로서의 전문성 · 효율적인 커뮤니케이션 · 성장을 중요시 하며, 특히 재밌고 흥미로운거에 
-                        관심이 많습니다. 개발 블로그를 통해 기술적인 부분과 성장 과정을 다루어 보려고합니다. 
-        </p>
-      </div>
+<section class="bg-gray-900 text-white py-20">
+  <div class="container mx-auto px-4">
+    <div class="text-center">
+      <h1 class="text-4xl font-bold">안녕하세요, 저는 김관현입니다.</h1>
+      <p class="mt-4">
+        1년차 백엔드 개발자로, 온라인에서는 '옆집아저씨'라는 닉네임으로 활동하고 있습니다. 대학교 내 과제만 하다가 이제 막 사회에 나와서 백엔드 개발 커리어를 시작하고 있으며, 현재는 SI 회사에서 유지보수 업무를 받아서 프로젝트를 진행하고 있습니다. 회사 업무 이외에도 다양한 경험을 하고 싶어 새롭게 '개발 블로그'를 개설했습니다.
+      </p>
+      <p>
+        개발자로서의 전문성과 효율적인 커뮤니케이션, 그리고 성장을 중요시 하며, 특히 재밌고 흥미로운 것에 관심이 많습니다. 개발 블로그를 통해 기술적인 부분과 성장 과정을 다루고자 합니다.
+      </p>
     </div>
-  </section>
+  </div>
+</section>
 
   <!-- About Section -->
   <section class="py-16">
     <div class="container mx-auto px-4">
       <div class="flex justify-between items-center">
         <div class="w-1/2">
-          <h2 class="text-3xl font-bold">About Me</h2>
-          <p class="mt-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque.</p>
+          <h2 class="text-3xl font-bold">Careers.</h2>
+
+          <p class="mt-4"></p>
         </div>
         <div class="w-1/2">
           <img src="profile.jpg" alt="Profile" class="rounded-full shadow-lg">

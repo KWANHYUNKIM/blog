@@ -18,7 +18,7 @@
             <h2 class="text-2xl font-semibold">Careers</h2>
             <div class="mt-4">
                 <div class="bg-white shadow-md rounded p-4 mb-4 flex">
-                    <img src="../img/resume/futura.jpg" alt="Profile Image" class="w-24 h-24 rounded-full mr-4">
+                    <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-24 h-24 rounded-full mr-4">
                     <div>
                         <h3 class="text-xl font-semibold">Back-End Developer</h3>
                         <p class="text-sm text-gray-600">2024.03 ~ 현재</p>

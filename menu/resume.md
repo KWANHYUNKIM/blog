@@ -1,104 +1,51 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
+    <title>Resume</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@3.4.1/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="bg-gray-100">
 
-<section class="">
-  <h1 class="text-4xl">안녕하세요</h1>
-  <h1 class="text-4xl">
-    저는, <span class="font-bold">김관현</span>입니다
-  </h1>
-</section>
-
-
-<!-- Hero Section -->
-<section class="bg-gray-900 text-black py-20">
-  <div class="container mx-auto px-4">
-    <div class="text-center">
-      <p class="mt-4 leading-8">
-        1년차 백엔드 개발자로, 온라인에서는 '옆집아저씨'라는 닉네임으로 활동하고 있습니다. 대학교 내 과제만 하다가 이제 막 사회에 나와서 백엔드 개발 커리어를 시작하고 있으며, 현재는 SI 회사에서 유지보수 업무를 받아서 프로젝트를 진행하고 있습니다. 회사 업무 이외에도 다양한 경험을 하고 싶어 새롭게 '개발 블로그'를 개설했습니다.
-      </p>
-      <p class="leading-8">
-        개발자로서의 전문성과 효율적인 커뮤니케이션, 그리고 성장을 중요시 하며, 특히 재밌고 흥미로운 것에 관심이 많습니다. 개발 블로그를 통해 기술적인 부분과 성장 과정을 다루고자 합니다.
-      </p>
+<body class="bg-gray-100 text-gray-900">
+    <div class="max-w-3xl mx-auto p-4">
+        <header class="mb-8">
+            <h1 class="text-3xl font-bold">안녕하세요</h1>
+            <p class="mt-2">저는 정종윤 입니다</p>
+        </header>
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold">Careers</h2>
+            <div class="mt-4">
+                <div class="bg-white shadow-md rounded p-4 mb-4">
+                    <h3 class="text-xl font-semibold">Front-End Developer</h3>
+                    <p class="text-sm text-gray-600">2022.09 ~ 현재</p>
+                    <p class="mt-2">현재는 네이버의 해외 UGC 플랫폼 조직에서 신규 서비스를 개발하고 있습니다. 이전에는 국내 UGC 플랫폼 개발을 담당하는 Apollo CIC에서 네이버 엑스퍼트 서비스의 프론트엔드 개발을 담당했습니다.</p>
+                    <ul class="list-disc pl-5 mt-2">
+                        <li>랜딩 페이지, 검색 결과 페이지, 내 클래스 상세 페이지 등의 페이지를 Apollo GraphQL 기반으로 마이그레이션</li>
+                        <li>DRM 기능이 포함된 비디오 플레이어 라이브러리 적용</li>
+                    </ul>
+                </div>
+                <!-- Add more job experiences similarly -->
+            </div>
+        </section>
+        <section class="mb-8">
+            <h2 class="text-2xl font-semibold">Open Sources</h2>
+            <div class="mt-4">
+                <div class="bg-white shadow-md rounded p-4 mb-4">
+                    <h3 class="text-xl font-semibold">개인 기술 블로그</h3>
+                    <p class="text-sm text-gray-600">React, TypeScript, Gatsby, GraphQL, MUI, Emotion</p>
+                    <p class="mt-2">GitHub Page에 개인적인 프론트엔드 개발 경험을 기반으로 한 기술 블로그를 6년째 운영하고 있습니다.</p>
+                    <ul class="list-disc pl-5 mt-2">
+                        <li>누적 방문자수 70만, 월간 방문자수 1.6만</li>
+                        <li>일부 포스트는 네이버, 채널코퍼레이션 등의 IT 기업에서 큐레이션 포스트로 선정</li>
+                    </ul>
+                </div>
+                <!-- Add more open source projects similarly -->
+            </div>
+        </section>
+        <!-- Add other sections like Activities, Educations similarly -->
     </div>
-  </div>
-</section>
-
-  <!-- About Section -->
-  <section class="py-16">
-    <div class="container mx-auto px-4">
-      <div class="flex justify-between items-center">
-        <div class="w-1/2">
-          <h2 class="text-3xl font-bold">Careers.</h2>
-
-          <p class="mt-4"></p>
-        </div>
-        <div class="w-1/2">
-          <img src="profile.jpg" alt="Profile" class="rounded-full shadow-lg">
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Portfolio Section -->
-  <section class="py-16 bg-gray-200">
-    <div class="container mx-auto px-4">
-      <h2 class="text-3xl font-bold text-center">Portfolio</h2>
-      <div class="grid grid-cols-3 gap-8 mt-8">
-        <div class="bg-white p-6 rounded-lg shadow-md">
-          <h3 class="text-xl font-bold">Project 1</h3>
-          <p class="mt-2">Description of Project 1.</p>
-        </div>
-        <div class="bg-white p-6 rounded-lg shadow-md">
-          <h3 class="text-xl font-bold">Project 2</h3>
-          <p class="mt-2">Description of Project 2.</p>
-        </div>
-        <div class="bg-white p-6 rounded-lg shadow-md">
-          <h3 class="text-xl font-bold">Project 3</h3>
-          <p class="mt-2">Description of Project 3.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Contact Section -->
-  <section class="py-16">
-    <div class="container mx-auto px-4">
-      <h2 class="text-3xl font-bold text-center">Contact Me</h2>
-      <form class="mt-8 max-w-md mx-auto">
-        <div class="flex flex-wrap mb-4 -mx-2">
-          <div class="w-full px-2 mb-4">
-            <label for="name" class="block mb-2">Name</label>
-            <input type="text" id="name" name="name" class="w-full border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:border-blue-500">
-          </div>
-          <div class="w-full px-2 mb-4">
-            <label for="email" class="block mb-2">Email</label>
-            <input type="email" id="email" name="email" class="w-full border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:border-blue-500">
-          </div>
-          <div class="w-full px-2 mb-4">
-            <label for="message" class="block mb-2">Message</label>
-            <textarea id="message" name="message" rows="4" class="w-full border-gray-300 rounded-md px-3 py-2 focus:outline-none focus:border-blue-500"></textarea>
-          </div>
-          <div class="w-full px-2">
-            <button type="submit" class="bg-blue-500 text-white py-2 px-4 rounded-md hover:bg-blue-700 focus:outline-none">Send Message</button>
-          </div>
-        </div>
-      </form>
-    </div>
-  </section>
-
-  <!-- Footer -->
-  <footer class="bg-gray-800 text-white py-4">
-    <div class="container mx-auto text-center">
-      &copy; 2024 My Resume. All rights reserved.
-    </div>
-  </footer>
-
 </body>
+
 </html>

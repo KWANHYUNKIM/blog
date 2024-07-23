@@ -31,7 +31,6 @@
                                                 <p class="text-lg font-semibold">FUTURASOFT</p>
                                                 <p class="text-xl font-light text-left">Back-End Developer</p>
                                                 <p class="text-sm text-gray-600 text-right">2024.03 ~ 현재</p>
-
                                             </div>
                                         </div>
                                     </div>

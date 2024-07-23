@@ -18,13 +18,11 @@
             <h2 class="text-2xl font-semibold">Careers</h2>
             <div class="mt-4">
                 <div class="grid grid-cols-4 gap-4">
-                    <div class="bg-white shadow-md rounded p-4 mb-4 flex col-span-1">
-                        <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain mr-4">
-                    </div>
                     <div class="bg-white shadow-md rounded p-4 mb-4 flex col-span-3">
                         <div class="flex flex-col">
                             <div class="flex items-center mb-2">
                                 <div class="mr-4">
+                                    <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain mr-4">
                                     <h3 class="text-xl font-semibold">Back-End Developer</h3>
                                     <p class="text-lg font-medium">FuturaSoft</p>
                                 </div>

@@ -18,16 +18,22 @@
             <h2 class="text-2xl font-semibold">Careers</h2>
             <div class="mt-4">
                 <div class="bg-white shadow-md rounded p-4 mb-4 flex">
-                <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain mr-2">
-                    <div>
-                        <h3 class="text-xl font-semibold">Back-End Developer</h3>
-                        <p class="text-lg font-medium">회사 이름</p>
-                        <p class="text-sm text-gray-600">2024.03 ~ 현재</p>
-                        <p class="mt-2">현재는 네이버의 해외 UGC 플랫폼 조직에서 신규 서비스를 개발하고 있습니다. 이전에는 국내 UGC 플랫폼 개발을 담당하는 Apollo CIC에서 네이버 엑스퍼트 서비스의 프론트엔드 개발을 담당했습니다.</p>
-                        <ul class="list-disc pl-5 mt-2">
-                            <li>랜딩 페이지, 검색 결과 페이지, 내 클래스 상세 페이지 등의 페이지를 Apollo GraphQL 기반으로 마이그레이션</li>
-                            <li>DRM 기능이 포함된 비디오 플레이어 라이브러리 적용</li>
-                        </ul>
+                    <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain mr-4">
+                    <div class="flex flex-col">
+                        <div class="flex items-center mb-2">
+                            <div class="mr-4">
+                                <h3 class="text-xl font-semibold">Back-End Developer</h3>
+                                <p class="text-lg font-medium">FuturaSoft</p>
+                            </div>
+                            <p class="text-sm text-gray-600">2024.03 ~ 현재</p>
+                        </div>
+                        <div>
+                            <p class="mt-2">현재는 네이버의 해외 UGC 플랫폼 조직에서 신규 서비스를 개발하고 있습니다. 이전에는 국내 UGC 플랫폼 개발을 담당하는 Apollo CIC에서 네이버 엑스퍼트 서비스의 프론트엔드 개발을 담당했습니다.</p>
+                            <ul class="list-disc pl-5 mt-2">
+                                <li>랜딩 페이지, 검색 결과 페이지, 내 클래스 상세 페이지 등의 페이지를 Apollo GraphQL 기반으로 마이그레이션</li>
+                                <li>DRM 기능이 포함된 비디오 플레이어 라이브러리 적용</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>

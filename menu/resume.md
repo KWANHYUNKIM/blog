@@ -22,13 +22,15 @@
                         <div class="flex flex-col">
                             <div class="flex items-center mb-2">
                                 <div class="flex">
-                                    <div class="flex flex-col items-center w-1/2">
-                                        <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain">
-                                    </div>
-                                    <div class="flex flex-col justify-center w-1/2">
-                                        <h3 class="text-xl font-semibold">Back-End Developer</h3>
-                                        <p class="text-lg font-medium">FuturaSoft</p>
-                                         <p class="text-sm text-gray-600">2024.03 ~ 현재</p>
+                                    <div class="flex items-center">
+                                        <div class="w-1/2 flex justify-center">
+                                            <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain">
+                                        </div>
+                                        <div class="w-1/2 flex flex-col justify-center">
+                                            <h3 class="text-xl font-semibold">Back-End Developer</h3>
+                                            <p class="text-lg font-medium">FuturaSoft</p>
+                                            <p class="text-sm text-gray-600">2024.03 ~ 현재</p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

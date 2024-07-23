@@ -24,12 +24,14 @@
                                 <div class="flex">
                                     <div class="flex items-center">
                                         <div class="w-1/2 flex justify-center">
-                                            <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain">
+                                            <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-36 h-36 object-contain">
                                         </div>
-                                        <div class="w-1/2 flex flex-col justify-center">
-                                            <h3 class="text-xl font-semibold">Back-End Developer</h3>
-                                            <p class="text-lg font-medium">FuturaSoft</p>
-                                            <p class="text-sm text-gray-600">2024.03 ~ 현재</p>
+                                        <div class="w-1/2 flex flex-col justify-between h-36">
+                                            <div>
+                                                <p class="text-lg font-medium">FuturaSoft</p>
+                                                <p class="text-xl font-semibold">Back-End Developer</p>
+                                            </div>
+                                            <p class="text-sm text-gray-600 text-right">2024.03 ~ 현재</p>
                                         </div>
                                     </div>
                                 </div>

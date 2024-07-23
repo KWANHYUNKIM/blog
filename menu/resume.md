@@ -21,12 +21,16 @@
                     <div class="bg-white shadow-md rounded p-4 mb-4 flex col-span-3">
                         <div class="flex flex-col">
                             <div class="flex items-center mb-2">
-                                <div class="mr-4">
-                                    <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain mr-4">
-                                    <h3 class="text-xl font-semibold">Back-End Developer</h3>
-                                    <p class="text-lg font-medium">FuturaSoft</p>
+                                <div class="flex">
+                                    <div class="flex flex-col items-center w-1/2">
+                                        <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-32 h-32 object-contain">
+                                    </div>
+                                    <div class="flex flex-col justify-center w-1/2">
+                                        <h3 class="text-xl font-semibold">Back-End Developer</h3>
+                                        <p class="text-lg font-medium">FuturaSoft</p>
+                                         <p class="text-sm text-gray-600">2024.03 ~ 현재</p>
+                                    </div>
                                 </div>
-                                <p class="text-sm text-gray-600">2024.03 ~ 현재</p>
                             </div>
                             <div>
                                 <p class="mt-2">현재는 네이버의 해외 UGC 플랫폼 조직에서 신규 서비스를 개발하고 있습니다. 이전에는 국내 UGC 플랫폼 개발을 담당하는 Apollo CIC에서 네이버 엑스퍼트 서비스의 프론트엔드 개발을 담당했습니다.</p>

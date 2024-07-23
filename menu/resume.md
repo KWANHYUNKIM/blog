@@ -18,7 +18,7 @@
             <h2 class="text-2xl font-semibold">Careers</h2>
             <div class="mt-4">
                 <div class="bg-white shadow-md rounded p-4 mb-4 flex">
-                <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-16 h-16 object-contain ">
+                <img src="../blog/img/resume/futura.jpg" alt="Profile Image" class="w-16 h-16 object-cover mr-2">
                     <div>
                         <h3 class="text-xl font-semibold">Back-End Developer</h3>
                         <p class="text-lg font-medium">회사 이름</p>
